@@ -1,8 +1,8 @@
 // markers y rutas a mostrar en el mapa
-import Markers from "./Markers.js";
-import Directions from "./Directions.js";
+import Markers from "/Markers.js";
+import Directions from "/Directions.js";
 //funciones
-import { calcRoute, createMarkers, getCurrentLocation } from "./funtions.js";
+import { calcRoute, createMarkers, getCurrentLocation } from "/funtions.js";
 //variable de mapa
 let map;
 //inicializar el mapa
